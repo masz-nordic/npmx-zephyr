@@ -1,0 +1,5 @@
+
+This sample can be found under |sample path| in the |NCS| folder structure.
+
+To build the sample with |VSC|, follow the steps listed on the `How to build an application`_ page in the |nRFVSC| documentation.
+See `Building and programming an application`_ for other building and programming scenarios and `Testing and debugging an application`_ for general information about testing and debugging in the |NCS|.

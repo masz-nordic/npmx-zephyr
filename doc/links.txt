@@ -1,0 +1,10 @@
+.. ### This page lists links used in NCS docs.
+       Links are grouped by source URL if three or more have the same source URL.
+       Otherwise, they are placed in "Source: other".
+       Links not separated by blank line are related to one another.
+
+.. _`Building and programming an application`: https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/getting_started/programming.html
+.. _`Testing and debugging an application`: https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/getting_started/testing.html
+.. _`Configuring your application`: https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/getting_started/modifying.html#configure-application
+.. _`How to connect with PuTTY`: https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/getting_started/testing.html#how-to-connect-with-putty
+.. _`How to build an application`: https://nrfconnect.github.io/vscode-nrf-connect/get_started/build_app_ncs.html
