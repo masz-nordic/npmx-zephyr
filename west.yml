@@ -9,12 +9,18 @@ manifest:
       url-base: https://github.com/NordicSemiconductor
     - name: zephyrproject
       url-base: https://github.com/zephyrproject-rtos
+    - name: nrfconnect
+      url-base: https://github.com/nrfconnect
 
   projects:
     - name: zephyr
+      remote: zephyrproject
       revision: v3.3.0
       import: true
-      remote: zephyrproject
     - name: npmx
-      path: modules/npmx
       revision: v0.6.0
+      path: modules/npmx
+    - name: sdk-nrfxlib
+      remote: nrfconnect
+      revision: v2.4.0-rc1
+      path: modules/nrfxlib
